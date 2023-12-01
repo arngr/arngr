@@ -1,9 +1,3 @@
-# Hi!
-
-
-I'm Ardi Nugraha, I have built, and helped others to build computer programs.
-
-I work as a Software Engineer especially on backend side and contribute to open source software as part of my work and out of my own interest.
 
 ---
 
