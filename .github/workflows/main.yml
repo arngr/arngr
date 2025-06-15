@@ -4,7 +4,6 @@ on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: "1 0 * * *"
-
 jobs:
   update-readme:
     name: Update the WakaTime Stat
