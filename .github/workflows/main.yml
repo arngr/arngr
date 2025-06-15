@@ -1,19 +1,18 @@
-name: Waka Readme
+name: WakaTime status update
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
-
-permissions:
-  contents: write
+    # Runs at 12 am  '0 0 * * *'  UTC
+    - cron: "1 0 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          TIME_RANGE: all_time
+          BRANCH: "main"
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          STATS_RANGE: "all_time"
