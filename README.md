@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-172-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,18 +20,11 @@ Lua                      1 hr                █░░░░░░░░░░�
 🔥 Editors: 
 Neovim                   30 hrs 52 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-orbis-user-service       11 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   37.13 % 
-orbis-analytics-bff      8 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-orbis-go-library         3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Unknown Project          2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-hotreload                1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-
 💻 Operating System: 
 Mac                      25 hrs 26 mins      █████████████████████░░░░   82.38 % 
 Linux                    5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
 ```
 
 
- Last Updated on 16/06/2025 00:36:32 UTC
+ Last Updated on 16/06/2025 00:37:30 UTC
 <!--END_SECTION:waka-->
